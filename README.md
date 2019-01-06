@@ -1,9 +1,14 @@
 # Puzzler
+![puzzle-header](https://user-images.githubusercontent.com/13722768/50737102-b3cb4100-11ac-11e9-9011-caecac7d40c5.png)
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Design
 - Project: Puzzler
 
+![screenshot](https://user-images.githubusercontent.com/13722768/50737103-b3cb4100-11ac-11e9-9729-41745f588457.png)
+
+### Summary
+It is a puzzle game that you must resolve a enigma to runaway from the room.
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
@@ -30,3 +35,6 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - [VR Design - Movement Mechanics](https://github.com/udacity/VR-Design_Movement-Mechanics/releases)
 - [VR Design - Presenting the Work](https://github.com/udacity/VR-Design_Presenting-the-Work/releases)
 - VR Design - Puzzler
+
+### Project overview
+![outside-inside](https://user-images.githubusercontent.com/13722768/50737105-b463d780-11ac-11e9-991e-f4b5aa94ccfb.png)
